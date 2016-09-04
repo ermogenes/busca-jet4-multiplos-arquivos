@@ -1,0 +1,8 @@
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Release\BuscadorConsoleApplication.exe.config
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Release\BuscadorConsoleApplication.exe
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Release\BuscadorConsoleApplication.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Release\Buscador.dll
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Release\Buscador.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.exe
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.pdb

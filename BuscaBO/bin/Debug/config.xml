@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfDadosBusca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DadosBusca>
+    <nomeBusca>C:\Users\ermog\Desktop\Nova pasta\REGISTROS\IC ITANHAÉM REGISTRO 2015.mdb</nomeBusca>
+    <pathArquivo>C:\Users\ermog\Desktop\Nova pasta\REGISTROS\IC ITANHAÉM REGISTRO 2015.mdb</pathArquivo>
+    <nomeTabela>REG</nomeTabela>
+    <campoChave>BO</campoChave>
+    <campoExibicao1>ID</campoExibicao1>
+    <tituloCampoExibicao1>REG</tituloCampoExibicao1>
+    <campoExibicao2>DELEGACIA</campoExibicao2>
+    <tituloCampoExibicao2>DELEGACIA</tituloCampoExibicao2>
+  </DadosBusca>
+  <DadosBusca>
+    <nomeBusca>C:\Users\ermog\Desktop\Nova pasta\REGISTROS\IC ITANHAÉM REGISTRO 2016.mdb</nomeBusca>
+    <pathArquivo>C:\Users\ermog\Desktop\Nova pasta\REGISTROS\IC ITANHAÉM REGISTRO 2016.mdb</pathArquivo>
+    <nomeTabela>REG</nomeTabela>
+    <campoChave>BO</campoChave>
+    <campoExibicao1>ID</campoExibicao1>
+    <tituloCampoExibicao1>REG</tituloCampoExibicao1>
+    <campoExibicao2>DELEGACIA</campoExibicao2>
+    <tituloCampoExibicao2>DELEGACIA</tituloCampoExibicao2>
+  </DadosBusca>
+  <DadosBusca>
+    <nomeBusca>C:\Users\ermog\Desktop\Nova pasta\REGISTROS\IC ITANHAÉM REGISTRO 2013 -.mdb</nomeBusca>
+    <pathArquivo>C:\Users\ermog\Desktop\Nova pasta\REGISTROS\IC ITANHAÉM REGISTRO 2013 -.mdb</pathArquivo>
+    <nomeTabela>REG</nomeTabela>
+    <campoChave>BO</campoChave>
+    <campoExibicao1>ID</campoExibicao1>
+    <tituloCampoExibicao1>REG</tituloCampoExibicao1>
+    <campoExibicao2>Dp</campoExibicao2>
+    <tituloCampoExibicao2>DELEGACIA</tituloCampoExibicao2>
+  </DadosBusca>
+</ArrayOfDadosBusca>

@@ -1,0 +1,34 @@
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\bin\Debug\BuscaBO.exe.config
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.csprojResolveAssemblyReference.cache
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.ConfiguracoesForm.resources
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.PrincipalForm.resources
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.Properties.Resources.resources
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.csproj.GenerateResource.Cache
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\bin\Debug\BuscaBO.exe
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\bin\Debug\BuscaBO.pdb
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.exe
+C:\Users\p017176\Documents\Visual Studio 2015\Projects\BuscaBO\BuscaBO\obj\Debug\BuscaBO.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\BuscaBO.exe.config
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.exe
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\BuscaBO.exe
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\BuscaBO.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.csprojResolveAssemblyReference.cache
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.ConfiguracoesForm.resources
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.PrincipalForm.resources
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.Properties.Resources.resources
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.csproj.GenerateResource.Cache
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.AdicionarPesquisaForm.resources
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\BuscaBO.exe.config
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\BuscaBO.exe
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\BuscaBO.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\Buscador.dll
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\bin\Debug\Buscador.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.AdicionarPesquisaForm.resources
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.ConfiguracoesForm.resources
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.PrincipalForm.resources
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.Properties.Resources.resources
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.csproj.GenerateResource.Cache
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.exe
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.pdb

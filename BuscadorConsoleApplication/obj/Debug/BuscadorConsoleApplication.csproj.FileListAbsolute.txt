@@ -1,0 +1,24 @@
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe.config
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.pdb
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\Buscador.dll
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\Buscador.pdb
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.exe
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe.config
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\Buscador.dll
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\Buscador.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.exe
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe.config
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\Buscador.dll
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\bin\Debug\Buscador.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.exe
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.pdb

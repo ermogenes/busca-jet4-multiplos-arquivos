@@ -1,0 +1,14 @@
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\Buscador\bin\Debug\Buscador.dll
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\Buscador\bin\Debug\Buscador.pdb
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\Buscador\obj\Debug\BuscadorLib.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\Buscador\obj\Debug\Buscador.dll
+C:\Users\ermog\Documents\Visual Studio 2015\Projects\ProjetoIntegradorBim09Solution\Buscador\obj\Debug\Buscador.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\bin\Debug\Buscador.dll
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\bin\Debug\Buscador.pdb
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Debug\BuscadorLib.csprojResolveAssemblyReference.cache
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Debug\Buscador.dll
+C:\Users\Ermogenes\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Debug\Buscador.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\bin\Debug\Buscador.dll
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\bin\Debug\Buscador.pdb
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Debug\Buscador.dll
+C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Debug\Buscador.pdb
