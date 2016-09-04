@@ -88,7 +88,7 @@
             // preferênciasToolStripMenuItem
             // 
             this.preferênciasToolStripMenuItem.Name = "preferênciasToolStripMenuItem";
-            this.preferênciasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.preferênciasToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
             this.preferênciasToolStripMenuItem.Text = "&Preferências...";
             this.preferênciasToolStripMenuItem.Click += new System.EventHandler(this.preferenciasToolStripMenuItem_Click);
             // 
@@ -144,7 +144,6 @@
             this.BuscaTextBox.Name = "BuscaTextBox";
             this.BuscaTextBox.Size = new System.Drawing.Size(801, 20);
             this.BuscaTextBox.TabIndex = 1;
-            this.BuscaTextBox.Text = "0050/16";
             // 
             // label1
             // 

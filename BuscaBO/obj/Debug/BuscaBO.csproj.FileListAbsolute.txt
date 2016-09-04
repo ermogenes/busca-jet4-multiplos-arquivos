@@ -32,3 +32,16 @@ C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Deb
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.csproj.GenerateResource.Cache
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.exe
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscaBO\obj\Debug\BuscaBO.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\bin\Debug\BuscaBO.exe.config
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\bin\Debug\BuscaBO.exe
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\bin\Debug\BuscaBO.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\bin\Debug\Buscador.dll
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\bin\Debug\Buscador.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.AdicionarPesquisaForm.resources
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.ConfiguracoesForm.resources
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.PrincipalForm.resources
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.Properties.Resources.resources
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.csproj.GenerateResource.Cache
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.exe
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscaBO\obj\Debug\BuscaBO.pdb

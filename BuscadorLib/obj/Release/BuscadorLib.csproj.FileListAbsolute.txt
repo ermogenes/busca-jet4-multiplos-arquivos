@@ -2,3 +2,7 @@ C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\bin
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\bin\Release\Buscador.pdb
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Release\Buscador.dll
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorLib\obj\Release\Buscador.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorLib\bin\Release\Buscador.dll
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorLib\bin\Release\Buscador.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorLib\obj\Release\Buscador.dll
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorLib\obj\Release\Buscador.pdb

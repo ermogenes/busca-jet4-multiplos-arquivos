@@ -22,3 +22,11 @@ C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsole
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.exe
 C:\Users\ermog\Desktop\Nova pasta\ProjetoIntegradorBim09Solution\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe.config
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.exe
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Debug\BuscadorConsoleApplication.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Debug\Buscador.dll
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Debug\Buscador.pdb
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.exe
+C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Debug\BuscadorConsoleApplication.pdb
