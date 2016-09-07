@@ -18,6 +18,7 @@ namespace BuscadorConsoleApplication
                     pathArquivo = arquivo2016,
                     nomeTabela = "reg",
                     campoChave = "bo",
+                    tituloCampoChave = "BO",
                     campoExibicao1 = "id",
                     tituloCampoExibicao1 = "REG",
                     campoExibicao2 = "delegacia",

@@ -13,6 +13,7 @@ namespace BuscadorLib
         private string query = "SELECT {1},{2},{3} FROM {0} WHERE {1} LIKE @valor ORDER BY {2},{3};";
         private string nome;
 
+        private string tituloChave;
         private string tituloExibicao1;
         private string tituloExibicao2;
 
@@ -67,6 +68,19 @@ namespace BuscadorLib
             }
         }
 
+        public string TituloChave
+        {
+            get
+            {
+                return tituloChave;
+            }
+
+            set
+            {
+                tituloChave = value;
+            }
+        }
+
         public Buscador(DadosBusca parametrosBusca)
         {
             this.nome = parametrosBusca.nomeBusca;
@@ -78,6 +92,7 @@ namespace BuscadorLib
                     parametrosBusca.campoExibicao1, 
                     parametrosBusca.campoExibicao2
             );
+            this.TituloChave = parametrosBusca.tituloCampoChave;
             this.TituloExibicao1 = parametrosBusca.tituloCampoExibicao1;
             this.tituloExibicao2 = parametrosBusca.tituloCampoExibicao2;
         }
@@ -147,6 +162,7 @@ namespace BuscadorLib
         public string pathArquivo;
         public string nomeTabela;
         public string campoChave;
+        public string tituloCampoChave;
         public string campoExibicao1;
         public string tituloCampoExibicao1;
         public string campoExibicao2;

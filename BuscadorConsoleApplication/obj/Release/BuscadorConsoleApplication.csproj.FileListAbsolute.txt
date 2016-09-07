@@ -14,3 +14,11 @@ C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplica
 C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.exe
 C:\Users\ermog\Desktop\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.pdb
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Release\BuscadorConsoleApplication.exe.config
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Release\BuscadorConsoleApplication.exe
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Release\BuscadorConsoleApplication.pdb
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Release\Buscador.dll
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\bin\Release\Buscador.pdb
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.csprojResolveAssemblyReference.cache
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.exe
+F:\Bim09\repo\busca-jet4-multiplos-arquivos\BuscadorConsoleApplication\obj\Release\BuscadorConsoleApplication.pdb
